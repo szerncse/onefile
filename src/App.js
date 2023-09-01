@@ -1,6 +1,5 @@
 
 
-
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 // import Content from "./components/Content";
@@ -21,12 +20,9 @@ import Notfage from "./Fages/Notfage";
 
 function App() {
 
-
   // let Name = "홍길동";
 
 
-
-  
   return (
     <>
     <Nav />
